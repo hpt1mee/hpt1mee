@@ -54,7 +54,7 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 
 ---
 
-![](https://media1.tenor.com/m/-oEf4SXmG1oAAAAd/tokyo-ghoul.gif)
+![](https://i.pinimg.com/736x/64/db/62/64db62666f6aeb08d4c9aa0aabd28752.jpg)
 
 ---
 
