@@ -4,8 +4,13 @@ Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my jou
 
 ---
 
-## 🌟 My Tech Stack
+## 🎮 My Favorite Games
+- **Rust** ![Rust](https://img.shields.io/badge/Rust-1E1E1E?style=flat-square&logo=rust&logoColor=white) - 5000+ hours  
+- **Dota 2 (Turbo mode)** ![Dota 2](https://img.shields.io/badge/Dota%202-512D6D?style=flat-square&logo=dota2&logoColor=white)
 
+---
+
+## 🌟 My Tech Stack
 
 ### 🌐 Frontend
 - **Languages:**  
@@ -19,10 +24,10 @@ Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my jou
 ### 🛠️ Backend
 - **Database:**  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 - **Server Side:**  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-		![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
@@ -36,6 +41,12 @@ Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my jou
 
 ## 🌱 What I'm Learning
 I'm currently diving deeper into **C++**, **MongoDB** to improve my development skills and build more amazing projects!
+
+---
+
+## 🎮 My Favorite Games
+- **Rust** ![Rust](https://img.shields.io/badge/Rust-1E1E1E?style=flat-square&logo=rust&logoColor=white) - 5000+ hours  
+- **Dota 2 (Turbo mode)** ![Dota 2](https://img.shields.io/badge/Dota%202-512D6D?style=flat-square&logo=dota2&logoColor=white)
 
 ---
 
