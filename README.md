@@ -7,7 +7,14 @@ Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my jou
 ## 🎮 My Favorite Games
  ![Rust](https://img.shields.io/badge/Rust-1E1E1E?style=flat-square&logo=rust&logoColor=white) 
  ![Dota 2](https://img.shields.io/badge/Dota%202-512D6D?style=flat-square&logo=dota2&logoColor=white)  
+
 ---
+
+---
+
+<div align="right">
+  <img src="https://media.tenor.com/1IX-ZnAZvPoAAAAC/yuno-gasai-anime-dance.gif" alt="Yuno Gasai Dance" width="300">
+</div>
 
 ## 🌟 My Tech Stack
 
