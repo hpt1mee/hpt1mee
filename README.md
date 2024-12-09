@@ -1,14 +1,13 @@
 # 👋 Hello, I'm Nikolay Simga Gucci!
 
 Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my journey in IT in 2022, specifically doing this since 2023. Hope I will become a good developer. Have a nice day👀
+**Age:** ***14***
 
 ---
 
 ## 🎮 My Favorite Games
  ![Rust](https://img.shields.io/badge/Rust-1E1E1E?style=flat-square&logo=rust&logoColor=white) 
  ![Dota 2](https://img.shields.io/badge/Dota%202-512D6D?style=flat-square&logo=dota2&logoColor=white)  
-
----
 
 ---
 
