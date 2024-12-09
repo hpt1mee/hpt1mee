@@ -49,6 +49,9 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 
 ---
 
+![](https://media1.tenor.com/m/EElT4Exvcx4AAAAd/shinoa.gif)
+
+---
 
 ## 📬 Contact Me
 - **Telegram:** [@hpt1m33](https://t.me/hpt1m33)  
