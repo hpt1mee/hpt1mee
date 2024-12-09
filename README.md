@@ -5,8 +5,8 @@ Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my jou
 ---
 
 ## 🎮 My Favorite Games
-- ![Rust](https://upload.wikimedia.org/wikipedia/commons/9/92/Rust_game_logo.jpg)  **Rust**  - 5000+ hours  
-- ![Dota 2](https://img.shields.io/badge/Dota%202-512D6D?style=flat-square&logo=dota2&logoColor=white) **Dota 2 (Turbo mode)** 
+- 🦀 **Rust**  - 5000+ hours  
+- ![Dota 2](https://img.shields.io/badge/Dota%202-512D6D?style=flat-square&logo=dota2&logoColor=white)  **Dota 2 (Turbo mode)** 
 ---
 
 ## 🌟 My Tech Stack
