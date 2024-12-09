@@ -51,6 +51,7 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 ---
 
 ![](https://media1.tenor.com/m/DFH5mofVBcYAAAAd/shinoa-hiragi.gif)
+![](https://media1.tenor.com/m/-oEf4SXmG1oAAAAd/tokyo-ghoul.gif)
 
 ---
 
