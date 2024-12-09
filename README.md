@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my jou
 
 ---
 
-![](https://tenor.com/ru/view/yuno-gasai-anime-dance-dancing-happy-gif-4744630)
+![](https://media1.tenor.com/m/3tXhBBtoG-gAAAAd/yuno-gasai-anime.gif)
 
 ---
 
