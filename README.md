@@ -55,7 +55,7 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 ---
 
 # **I don’t wanna front, I just wanna see you**
-# **Please don’t leave me, I’ll die if you don’t need me.**
+**Please don’t leave me, I’ll die if you don’t need me.**
 
 ---
 
