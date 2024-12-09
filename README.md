@@ -54,7 +54,7 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 
 ---
 
-<img src="https://i.pinimg.com/736x/64/db/62/64db62666f6aeb08d4c9aa0aabd28752.jpg" width="280" height="400">
+<img src="https://i.pinimg.com/736x/64/db/62/64db62666f6aeb08d4c9aa0aabd28752.jpg" width="340" height="400">
 
 ---
 
