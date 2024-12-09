@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my jou
 ---
 
 ## 🎮 My Favorite Games
- ![Rust](https://img.shields.io/badge/Rust-1E1E1E?style=flat-square&logo=rust&logoColor=white) [NOT LANGUAGE] - 5000+ hours  
+ ![Rust](https://img.shields.io/badge/Rust-1E1E1E?style=flat-square&logo=rust&logoColor=white) not language - 5000+ hours  
  ![Dota 2](https://img.shields.io/badge/Dota%202-512D6D?style=flat-square&logo=dota2&logoColor=white)  
 ---
 
