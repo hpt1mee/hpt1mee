@@ -43,11 +43,6 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 
 ---
 
-## 🎮 My Favorite Games
-- **Rust** ![Rust](https://img.shields.io/badge/Rust-1E1E1E?style=flat-square&logo=rust&logoColor=white) - 5000+ hours  
-- **Dota 2 (Turbo mode)** ![Dota 2](https://img.shields.io/badge/Dota%202-512D6D?style=flat-square&logo=dota2&logoColor=white)
-
----
 
 ## 📬 Contact Me
 - **Telegram:** [@hpt1m33](https://t.me/hpt1m33)  
