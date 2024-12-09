@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my journey in IT in 2022, specifically doing this since 2023. Hope I will become a good developer. Have a nice day👀  
 - **Age:** ***14***  
-- **Country:** ***Belarus,Minsk***
+- **Country:** ***Belarus, Minsk***
 
 ---
 
@@ -54,7 +54,7 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 
 ---
 
-![](https://i.pinimg.com/736x/64/db/62/64db62666f6aeb08d4c9aa0aabd28752.jpg)
+![](https://i.pinimg.com/736x/64/db/62/64db62666f6aeb08d4c9aa0aabd28752.jpg){:width="300px" height="200px"}
 
 ---
 
