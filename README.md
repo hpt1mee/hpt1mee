@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nikolay Simga Gucci!
+# 👋 Hello, I'm Nikolay Sigma Gucci!
 
 Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my journey in IT in 2022, specifically doing this since 2023. Hope I will become a good developer. Have a nice day👀
 - **Age:** ***14***
@@ -51,6 +51,11 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 ---
 
 ![](https://media1.tenor.com/m/DFH5mofVBcYAAAAd/shinoa-hiragi.gif)
+
+---
+
+# **I don’t wanna front, I just wanna see you**
+# **Please don’t leave me, I’ll die if you don’t need me.**
 
 ---
 
