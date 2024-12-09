@@ -49,7 +49,7 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 
 ---
 
-![](https://media1.tenor.com/m/EElT4Exvcx4AAAAd/shinoa.gif)
+![](https://media1.tenor.com/m/K4ROgO8Mnb0AAAAd/shinoa.gif)
 
 ---
 
