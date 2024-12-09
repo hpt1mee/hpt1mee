@@ -55,6 +55,7 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 ---
 
 ![](https://media.tenor.com/HFcLYOyOGTUAAAAj/ram-re-zero.gif)
+![](https://media.tenor.com/8kawcKa745AAAAAi/rem-re-zero.gif)
 
 # **Dream**
 
