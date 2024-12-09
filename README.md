@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Nikolay Simga Gucci!
 
 Welcome to my GitHub profile! 🚀 I am an aspiring developer who started my journey in IT in 2022, specifically doing this since 2023. Hope I will become a good developer. Have a nice day👀
- ! **Age:** ***14***
-	! **Country** ***Belarus***
+ - **Age:** ***14***
+	-	**Country** ***Belarus***
 
 ---
 
