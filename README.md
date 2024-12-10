@@ -69,7 +69,6 @@ I'm currently diving deeper into **C++**, **MongoDB** to improve my development 
 
 # Deleting Dublicates from array
 ```js
-const arr = [1,2,3,4,4,5,5,6,6,7,7,8,8,9,10]
 let OnlyUnique = []
 
 function getUniqueSet(arr) {
@@ -86,12 +85,6 @@ arr.forEach(el => {
     });
     return OnlyUnique;
 }
-
-
-
-console.log(getUniqueFilter(arr))
-console.log(getUniqueWithArr(arr))
-console.log(getUniqueSet(arr))
 ```
 
 
