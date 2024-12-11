@@ -12,4 +12,3 @@ downloadBlocks.forEach(block => {
 				}
 });
 });
-
